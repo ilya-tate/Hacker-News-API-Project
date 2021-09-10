@@ -1,4 +1,3 @@
-# Getting Started with Create React App
+# Hacker-News-API-Project
 
 By: Ilya Tate
-# Hacker-News-API-Project
